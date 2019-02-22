@@ -51,13 +51,12 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mtroglia@hawaii.edu"
-phone = "808 333 3333"
+phone = ""
 address = "Holmes Hall #410 2540 Dole St, Honolulu, HI 96822"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00<br>
-                  Otherwise email to book an appointment"""
+office_hours = """Mon-Fri 10:00 to 16:00<br>
+                  By Appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
