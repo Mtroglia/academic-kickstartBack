@@ -31,7 +31,7 @@ interests = [
 [[education.courses]]
   course = "Ph.D. in Electrical Engineering"
   institution = "University of Hawaiʻi at Mānoa"
-  year = Current
+  year = 2021
 
 [[education.courses]]
     course = "M.S. in Electrical Engineering"
