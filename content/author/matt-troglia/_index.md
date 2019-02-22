@@ -25,8 +25,8 @@ organizations = [ { name = "University of Hawaiʻi at Mānoa", url = "http://man
 interests = [
     "Wireless/Spectrum Security",
     "Mobile Privacy"
-    Critical Infrastructure Security
-    Industrical Control Systems Security
+    "Critical Infrastructure Security",
+    "Industrical Control Systems Security"
   ]
 
 # List your qualifications (such as academic degrees).
