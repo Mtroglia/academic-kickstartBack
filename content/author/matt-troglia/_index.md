@@ -3,19 +3,19 @@
 widget = "about"
 active = true
 date = "2016-04-20T00:00:00"
-author = "Yao Zheng"
+author = "Matthew Troglia"
 
 # Order that this section will appear in.
 weight = 5
 
 # Display name
-name = "Yao Zheng, Ph.D."
+name = "Matthew Trolgia, PhD Canidate."
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Assistant Professor"
+role = "PhD Student"
 
 # Organizations/Affiliations.
 # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -29,19 +29,19 @@ interests = [
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Computer Science and Applications"
-  institution = "Virginia Polytechnic Institute and State University"
-  year = 2016
+  course = "Ph.D. in Electrical Engineering"
+  institution = "University of Hawaiʻi at Mānoa"
+  year = Current
 
 [[education.courses]]
-  course = "M.S. in Electrical and Computer Engineering"
-  institution = "Worcester Polytechnic Institute"
-  year = 2011
+    course = "M.S. in Electrical Engineering"
+    institution = "University of Hawaiʻi at Mānoa"
+    year = 2016
 
 [[education.courses]]
-  course = "B.S. in Microelectronics"
-  institution = "Fudan University"
-  year = 2007
+  course = "B.S. in Mathematics"
+  institution = "Hawaii Pacific University"
+  year = 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
