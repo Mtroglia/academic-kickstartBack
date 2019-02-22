@@ -24,7 +24,7 @@ organizations = [ { name = "University of Hawaiʻi at Mānoa", url = "http://man
 # List your academic interests.
 interests = [
     "Wireless/Spectrum Security",
-    "Mobile Privacy"
+    "Mobile Privacy",
     "Critical Infrastructure Security",
     "Industrical Control Systems Security"
   ]
