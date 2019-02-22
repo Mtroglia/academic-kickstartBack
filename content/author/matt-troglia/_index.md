@@ -51,28 +51,24 @@ interests = [
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "https://www.zotero.org/gustybear/cv"
+  link = "https://www.zotero.org/mtroglia/cv"
 
 [[social]]
   icon = "zotero"
   icon_pack = "ai"
-  link = "https://www.zotero.org/gustybear/"
+  link = "https://www.zotero.org/mtroglia/"
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=0nk3blkAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gustybear"
+  link = "https://github.com/mtroglia"
 
 [[social]]
   icon = "envelope"
   icon_pack = "fa"
-  link = "mailto:yao.zheng@hawaii.edu"
+  link = "mailto:mtroglia@hawaii.edu"
 
 +++
 
-I am an Assistant Professor at Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests are in the domain of computer privacy and security.  I am currently studying the privacy issues of web/mobile advertising. I am also interested in other security and privacy related research topics.
+I am an doctoral student at the Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests are in the domain of communications and network security.  I am currently studying the spectrum security in next generation specetrum sharing environments. Other areas of interest are in technologies for critical infrastructure security and privacy issues of web/mobile advertising.
