@@ -9,7 +9,7 @@ author = "Matthew Troglia"
 weight = 5
 
 # Display name
-name = "Matthew Troglia, MS "
+name = "Matt Troglia, MS "
 
 # Is this the primary user of the site?
 superuser = true
@@ -23,8 +23,10 @@ organizations = [ { name = "University of Hawaiʻi at Mānoa", url = "http://man
 
 # List your academic interests.
 interests = [
-    "Wireless Security",
-    "Internet Privacy"
+    "Wireless/Spectrum Security",
+    "Mobile Privacy"
+    Critical Infrastructure Security
+    Industrical Control Systems Security
   ]
 
 # List your qualifications (such as academic degrees).
@@ -71,4 +73,4 @@ interests = [
 
 +++
 
-I am an doctoral student at the Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests are in the domain of communications and network security.  I am currently studying the spectrum security in next generation specetrum sharing environments. Other areas of interest are in technologies for critical infrastructure security and privacy issues of web/mobile advertising.
+I am an doctoral student at the Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests are in the domain of communications and network security.  I am currently studying  spectrum security in next generation specetrum sharing environments. Other areas of interest are in technologies for critical infrastructure security and privacy issues of web/mobile advertising.
