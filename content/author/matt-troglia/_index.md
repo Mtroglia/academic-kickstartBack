@@ -26,7 +26,7 @@ interests = [
     "Wireless/Spectrum Security",
     "Mobile Privacy",
     "Critical Infrastructure Security",
-    "Industrical Control Systems Security"
+    "Industrial Control Systems Security"
   ]
 
 # List your qualifications (such as academic degrees).
