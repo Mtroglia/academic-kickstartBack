@@ -9,7 +9,7 @@ author = "Matthew Troglia"
 weight = 5
 
 # Display name
-name = "Matthew Troglia, M.S. "
+name = "Matthew Troglia, MS "
 
 # Is this the primary user of the site?
 superuser = true
